@@ -1,0 +1,22 @@
+{
+  "name": "test_api_express",
+  "version": "0.1.0",
+  "description": "first math api calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelmaMuzevic/test_api_express.git"
+  },
+  "author": "selma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SelmaMuzevic/test_api_express/issues"
+  },
+  "homepage": "https://github.com/SelmaMuzevic/test_api_express#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
